@@ -7,7 +7,7 @@ Movie trivia night with friends and family just got a whole lot better! Introduc
 
 <b>Playing the game is simple! Click on Starting Guessing to launch a new session --> Double-click the golden movie title button that you think corresponds to the plot --> if you lose, enter your name to see if you made it onto the leaderboard !<b>
 
-![]()
+![](GuessTheReel.gif)
 
 
 
